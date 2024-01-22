@@ -1,0 +1,24 @@
+C:\Users\gong_\Desktop\2024SP - CPT 206 - A80S - Adv Event-Driven Program\Students-Files-Sample-Programs\Students-Files-Sample-Programs\Student Sample Programs\Chap14\PhonelistNames\PhonelistNames\bin\Debug\Phonelist.mdf
+C:\Users\gong_\Desktop\2024SP - CPT 206 - A80S - Adv Event-Driven Program\Students-Files-Sample-Programs\Students-Files-Sample-Programs\Student Sample Programs\Chap14\PhonelistNames\PhonelistNames\bin\Debug\Phonelist_log.ldf
+C:\Users\gong_\Desktop\2024SP - CPT 206 - A80S - Adv Event-Driven Program\Students-Files-Sample-Programs\Students-Files-Sample-Programs\Student Sample Programs\Chap14\PhonelistNames\PhonelistNames\bin\Debug\PhonelistNames.exe.config
+C:\Users\gong_\Desktop\2024SP - CPT 206 - A80S - Adv Event-Driven Program\Students-Files-Sample-Programs\Students-Files-Sample-Programs\Student Sample Programs\Chap14\PhonelistNames\PhonelistNames\bin\Debug\PhonelistNames.exe
+C:\Users\gong_\Desktop\2024SP - CPT 206 - A80S - Adv Event-Driven Program\Students-Files-Sample-Programs\Students-Files-Sample-Programs\Student Sample Programs\Chap14\PhonelistNames\PhonelistNames\bin\Debug\PhonelistNames.pdb
+C:\Users\gong_\Desktop\2024SP - CPT 206 - A80S - Adv Event-Driven Program\Students-Files-Sample-Programs\Students-Files-Sample-Programs\Student Sample Programs\Chap14\PhonelistNames\PhonelistNames\obj\Debug\PhonelistNames.csproj.AssemblyReference.cache
+C:\Users\gong_\Desktop\2024SP - CPT 206 - A80S - Adv Event-Driven Program\Students-Files-Sample-Programs\Students-Files-Sample-Programs\Student Sample Programs\Chap14\PhonelistNames\PhonelistNames\obj\Debug\PhonelistNames.Form1.resources
+C:\Users\gong_\Desktop\2024SP - CPT 206 - A80S - Adv Event-Driven Program\Students-Files-Sample-Programs\Students-Files-Sample-Programs\Student Sample Programs\Chap14\PhonelistNames\PhonelistNames\obj\Debug\PhonelistNames.Properties.Resources.resources
+C:\Users\gong_\Desktop\2024SP - CPT 206 - A80S - Adv Event-Driven Program\Students-Files-Sample-Programs\Students-Files-Sample-Programs\Student Sample Programs\Chap14\PhonelistNames\PhonelistNames\obj\Debug\PhonelistNames.csproj.GenerateResource.cache
+C:\Users\gong_\Desktop\2024SP - CPT 206 - A80S - Adv Event-Driven Program\Students-Files-Sample-Programs\Students-Files-Sample-Programs\Student Sample Programs\Chap14\PhonelistNames\PhonelistNames\obj\Debug\PhonelistNames.csproj.CoreCompileInputs.cache
+C:\Users\gong_\Desktop\2024SP - CPT 206 - A80S - Adv Event-Driven Program\Students-Files-Sample-Programs\Students-Files-Sample-Programs\Student Sample Programs\Chap14\PhonelistNames\PhonelistNames\obj\Debug\PhonelistNames.exe
+C:\Users\gong_\Desktop\2024SP - CPT 206 - A80S - Adv Event-Driven Program\Students-Files-Sample-Programs\Students-Files-Sample-Programs\Student Sample Programs\Chap14\PhonelistNames\PhonelistNames\obj\Debug\PhonelistNames.pdb
+C:\Users\gong_\Desktop\2024SP - CPT 206 - A80S - Adv Event-Driven Program\Chap14\PhonelistNames\PhonelistNames\obj\Debug\PhonelistNames.csproj.AssemblyReference.cache
+C:\Users\gong_\Desktop\2024SP - CPT 206 - A80S - Adv Event-Driven Program\Chap14\PhonelistNames\PhonelistNames\obj\Debug\PhonelistNames.Form1.resources
+C:\Users\gong_\Desktop\2024SP - CPT 206 - A80S - Adv Event-Driven Program\Chap14\PhonelistNames\PhonelistNames\obj\Debug\PhonelistNames.Properties.Resources.resources
+C:\Users\gong_\Desktop\2024SP - CPT 206 - A80S - Adv Event-Driven Program\Chap14\PhonelistNames\PhonelistNames\obj\Debug\PhonelistNames.csproj.GenerateResource.cache
+C:\Users\gong_\Desktop\2024SP - CPT 206 - A80S - Adv Event-Driven Program\Chap14\PhonelistNames\PhonelistNames\obj\Debug\PhonelistNames.csproj.CoreCompileInputs.cache
+C:\Users\gong_\Desktop\2024SP - CPT 206 - A80S - Adv Event-Driven Program\Chap14\PhonelistNames\PhonelistNames\obj\Debug\PhonelistNames.exe
+C:\Users\gong_\Desktop\2024SP - CPT 206 - A80S - Adv Event-Driven Program\Chap14\PhonelistNames\PhonelistNames\obj\Debug\PhonelistNames.pdb
+C:\Users\gong_\Desktop\2024SP - CPT 206 - A80S - Adv Event-Driven Program\Chap14\PhonelistNames\PhonelistNames\bin\Debug\Phonelist.mdf
+C:\Users\gong_\Desktop\2024SP - CPT 206 - A80S - Adv Event-Driven Program\Chap14\PhonelistNames\PhonelistNames\bin\Debug\Phonelist_log.ldf
+C:\Users\gong_\Desktop\2024SP - CPT 206 - A80S - Adv Event-Driven Program\Chap14\PhonelistNames\PhonelistNames\bin\Debug\PhonelistNames.exe.config
+C:\Users\gong_\Desktop\2024SP - CPT 206 - A80S - Adv Event-Driven Program\Chap14\PhonelistNames\PhonelistNames\bin\Debug\PhonelistNames.exe
+C:\Users\gong_\Desktop\2024SP - CPT 206 - A80S - Adv Event-Driven Program\Chap14\PhonelistNames\PhonelistNames\bin\Debug\PhonelistNames.pdb
