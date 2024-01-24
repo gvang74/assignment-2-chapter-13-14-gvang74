@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Query_Data_Source_Tutorial_14_6", "Query_Data_Source_Tutorial_14_6.csproj", "{F3128C29-1A76-4189-B1A4-9D963F1D563F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F3128C29-1A76-4189-B1A4-9D963F1D563F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3128C29-1A76-4189-B1A4-9D963F1D563F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3128C29-1A76-4189-B1A4-9D963F1D563F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3128C29-1A76-4189-B1A4-9D963F1D563F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8DC77436-E9CA-46E5-B1D8-95F0C217CCEE}
+	EndGlobalSection
+EndGlobal

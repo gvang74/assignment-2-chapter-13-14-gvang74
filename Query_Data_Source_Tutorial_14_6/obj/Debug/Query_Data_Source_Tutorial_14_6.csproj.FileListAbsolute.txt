@@ -1,0 +1,12 @@
+C:\Users\gong_\Desktop\2024SP - CPT 206 - A80S - Adv Event-Driven Program\Query_Data_Source_Tutorial_14_6\bin\Debug\ProductDB.mdf
+C:\Users\gong_\Desktop\2024SP - CPT 206 - A80S - Adv Event-Driven Program\Query_Data_Source_Tutorial_14_6\bin\Debug\ProductDB_log.ldf
+C:\Users\gong_\Desktop\2024SP - CPT 206 - A80S - Adv Event-Driven Program\Query_Data_Source_Tutorial_14_6\bin\Debug\Query_Data_Source_Tutorial_14_6.exe.config
+C:\Users\gong_\Desktop\2024SP - CPT 206 - A80S - Adv Event-Driven Program\Query_Data_Source_Tutorial_14_6\bin\Debug\Query_Data_Source_Tutorial_14_6.exe
+C:\Users\gong_\Desktop\2024SP - CPT 206 - A80S - Adv Event-Driven Program\Query_Data_Source_Tutorial_14_6\bin\Debug\Query_Data_Source_Tutorial_14_6.pdb
+C:\Users\gong_\Desktop\2024SP - CPT 206 - A80S - Adv Event-Driven Program\Query_Data_Source_Tutorial_14_6\obj\Debug\Query_Data_Source_Tutorial_14_6.csproj.AssemblyReference.cache
+C:\Users\gong_\Desktop\2024SP - CPT 206 - A80S - Adv Event-Driven Program\Query_Data_Source_Tutorial_14_6\obj\Debug\Query_Data_Source_Tutorial_14_6.Form1.resources
+C:\Users\gong_\Desktop\2024SP - CPT 206 - A80S - Adv Event-Driven Program\Query_Data_Source_Tutorial_14_6\obj\Debug\Query_Data_Source_Tutorial_14_6.Properties.Resources.resources
+C:\Users\gong_\Desktop\2024SP - CPT 206 - A80S - Adv Event-Driven Program\Query_Data_Source_Tutorial_14_6\obj\Debug\Query_Data_Source_Tutorial_14_6.csproj.GenerateResource.cache
+C:\Users\gong_\Desktop\2024SP - CPT 206 - A80S - Adv Event-Driven Program\Query_Data_Source_Tutorial_14_6\obj\Debug\Query_Data_Source_Tutorial_14_6.csproj.CoreCompileInputs.cache
+C:\Users\gong_\Desktop\2024SP - CPT 206 - A80S - Adv Event-Driven Program\Query_Data_Source_Tutorial_14_6\obj\Debug\Query_Data_Source_Tutorial_14_6.exe
+C:\Users\gong_\Desktop\2024SP - CPT 206 - A80S - Adv Event-Driven Program\Query_Data_Source_Tutorial_14_6\obj\Debug\Query_Data_Source_Tutorial_14_6.pdb
