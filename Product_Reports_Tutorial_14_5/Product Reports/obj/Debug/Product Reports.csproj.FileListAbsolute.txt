@@ -1,0 +1,12 @@
+C:\Users\gong_\Desktop\2024SP - CPT 206 - A80S - Adv Event-Driven Program\Chap14\Product Reports\Product Reports\bin\Debug\ProductDB.mdf
+C:\Users\gong_\Desktop\2024SP - CPT 206 - A80S - Adv Event-Driven Program\Chap14\Product Reports\Product Reports\bin\Debug\ProductDB_log.ldf
+C:\Users\gong_\Desktop\2024SP - CPT 206 - A80S - Adv Event-Driven Program\Chap14\Product Reports\Product Reports\bin\Debug\Product Reports.exe.config
+C:\Users\gong_\Desktop\2024SP - CPT 206 - A80S - Adv Event-Driven Program\Chap14\Product Reports\Product Reports\bin\Debug\Product Reports.exe
+C:\Users\gong_\Desktop\2024SP - CPT 206 - A80S - Adv Event-Driven Program\Chap14\Product Reports\Product Reports\bin\Debug\Product Reports.pdb
+C:\Users\gong_\Desktop\2024SP - CPT 206 - A80S - Adv Event-Driven Program\Chap14\Product Reports\Product Reports\obj\Debug\Product Reports.csproj.AssemblyReference.cache
+C:\Users\gong_\Desktop\2024SP - CPT 206 - A80S - Adv Event-Driven Program\Chap14\Product Reports\Product Reports\obj\Debug\Product_Reports.Form1.resources
+C:\Users\gong_\Desktop\2024SP - CPT 206 - A80S - Adv Event-Driven Program\Chap14\Product Reports\Product Reports\obj\Debug\Product_Reports.Properties.Resources.resources
+C:\Users\gong_\Desktop\2024SP - CPT 206 - A80S - Adv Event-Driven Program\Chap14\Product Reports\Product Reports\obj\Debug\Product Reports.csproj.GenerateResource.cache
+C:\Users\gong_\Desktop\2024SP - CPT 206 - A80S - Adv Event-Driven Program\Chap14\Product Reports\Product Reports\obj\Debug\Product Reports.csproj.CoreCompileInputs.cache
+C:\Users\gong_\Desktop\2024SP - CPT 206 - A80S - Adv Event-Driven Program\Chap14\Product Reports\Product Reports\obj\Debug\Product Reports.exe
+C:\Users\gong_\Desktop\2024SP - CPT 206 - A80S - Adv Event-Driven Program\Chap14\Product Reports\Product Reports\obj\Debug\Product Reports.pdb
